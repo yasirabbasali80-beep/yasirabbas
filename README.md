@@ -172,17 +172,6 @@ These challenges helped improve **problem-solving and coding skills**.
 * Improve input validation
 * Store calculation history
 
----
-
-## Contributing
-
-Contributions are welcome!
-Feel free to fork this repository and submit a pull request.
-
----
-
-##  License
-
 
 
 Just tell me 👍
