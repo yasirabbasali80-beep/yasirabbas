@@ -163,14 +163,6 @@ These challenges helped improve **problem-solving and coding skills**.
   * Conditionals
 * Experience building a real-world application
 
----
-
-##  Future Improvements
-
-* Add GUI (Graphical User Interface) using Tkinter or PyQt
-* Add more scientific functions
-* Improve input validation
-* Store calculation history
 
 
 
