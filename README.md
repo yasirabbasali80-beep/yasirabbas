@@ -3,7 +3,7 @@
 
 #  All-in-One Scientific Calculator
 
-## 📌 Overview
+##  Overview
 
 The **All-in-One Scientific Calculator** is a beginner-friendly Python project designed to perform a wide range of calculations within a single application. Instead of creating separate programs for different tasks, this calculator integrates **basic arithmetic, scientific, and health-related calculations** into one easy-to-use system.
 
@@ -26,7 +26,7 @@ This project serves as an excellent introduction to Python programming and demon
 * Accepts angles in **degrees**
 * Handles special angles like 0°, 90°, 180°, 270°
 
-### 📊 3. Logarithmic Functions
+###  3. Logarithmic Functions
 
 * Natural logarithm (ln)
 * Log base 10
